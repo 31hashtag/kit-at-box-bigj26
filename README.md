@@ -3,3 +3,4 @@ This is just the file I used to make Kit and the Box.
 This is the most basic file version I edited, apart from the following:
 - https://desktop.turbowarp.org/ is the game engine (if it can be considered that) that I used to make the game and package it.
 - https://www.noteflight.com/ is the program I used to make the music for the game.
+This repository coorisponds with version 1.3.0 of Kit and the Box on Itch.
